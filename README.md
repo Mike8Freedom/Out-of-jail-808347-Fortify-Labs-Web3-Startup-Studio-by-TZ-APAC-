@@ -21,7 +21,11 @@ ON-CHAIN REWARD — Memory Capsule NFT or GAME PASS
 NEXT LEVEL UNLOCKED
 
 ✨ CORE MECHANICS
-MechanicDescriptionAI ConfessionDeep dialogue with Overseer Noemi — honesty = progressOn-Chain ProgressEvery session stored as NFT achievement on EtherlinkMemory CapsulesMusic NFTs unlocked through gameplayToken-Gated LevelsNFT ownership = access to deeper prison levelsMulti-Season Arc6–10 planned seasons with expanding lore
+MechanicDescriptionAI
+ConfessionDeep dialogue with Overseer Noemi — honesty = 
+progressOn-Chain ProgressEvery session stored as NFT achievement on EtherlinkMemory CapsulesMusic NFTs
+unlocked through gameplayToken-Gated LevelsNFT ownership = 
+access to deeper prison levelsMulti-Season Arc6–10 planned seasons with expanding lore
 
 🛠️ TECH STACK
 Frontend
@@ -46,18 +50,19 @@ Architecture: Prompt-engineered character with game-state awareness
 
 NFT Infrastructure
 
-Marketplace: OpenSea (Base → Etherlink migration)
-Collections: Memory Capsules, Founder's Edition (37 total), Protocol Pass
+Marketplace: https://objkt.com/ 
+Collections: Out of Jail 808347 // Genesis Key1 (Gane pass)
 Delivery: On-chain metadata + unlockable content
 
 Distribution
 
-Farcaster Frames — playable quest entry directly in social feed
+
 Web app — full experience at echoesoftheheroes.com
+Farcaster Frames — playable quest entry directly in social feed(in process)
 
 Media
 
-3:40 AAA cinematic intro (original score + generative visuals)
+AAA cinematic intro (original score + generative visuals)
 Original album — The Prisoner's Album (10+ tracks)
 Generative art — MidJourney-based world-building assets
 
@@ -83,7 +88,7 @@ Etherlink ecosystem exclusive
 ✅ COMPLETED (Alpha)
 
  3:40 AAA cinematic intro
- AI Overseer Noemi (conversational system)
+ AI Overseer Noaemi (conversational system)
  Audio message mechanic (The Creature)
  NFT reward page
  Game Pass Collection (https://objkt.com/)
