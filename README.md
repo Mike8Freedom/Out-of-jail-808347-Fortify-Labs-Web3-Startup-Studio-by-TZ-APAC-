@@ -86,11 +86,9 @@ Etherlink ecosystem exclusive
  AI Overseer Noemi (conversational system)
  Audio message mechanic (The Creature)
  NFT reward page
+ Game Pass Collection (https://objkt.com/)
  Memory Capsule collection (OpenSea/Base)
- Founder's Edition (37 NFTs)
- Farcaster Frame integration
- Won SMU × Aptos Hackathon
- Shortlisted Amazon Prime Go Global (2022)
+ 
 
 
 🚧 PHASE 1 — MONTHS 1–3
@@ -209,13 +207,16 @@ Base: Georgia 🇬🇪 → Singapore 🇸🇬 (TZ APAC program)
 ## 💰 USE OF FUNDS (Fortify Labs)
 
 ### 🟢 $10,000 | Project Development Grant
+
 | Category | Amount | Purpose |
 | :--- | :--- | :--- |
-| **AI Infrastructure** | $3,000 | API costs for Noemi AI sessions & LLM logic |
-| **Server & Hosting** | $2,000 | Scaled cloud infrastructure for global access |
-| **Smart Contract Audit** | $2,000 | Security audit for Etherlink mainnet deployment |
-| **Content Production** | $2,000 | Production of Levels 2–4 assets (Art & Audio) |
-| **Legal/Entity Setup** | $1,000 | Singapore entity registration & compliance |
+| **Game Dev & Mechanics** | $3,000 | Level design, AI dialogue logic, game loop engineering & QA |
+| **Equipment Upgrade** | $2,500 | Dev hardware replacement (sold to fund early build) |
+| **Season 1 Cinematics** | $1,500 | AAA-quality cutscenes, character animations & visual production |
+| **Marketing & Community** | $1,000 | Farcaster campaigns, influencer outreach, launch events |
+| **Server & AI API** | $1,000 | Cloud infrastructure + LLM API costs for Noemi sessions |
+| **Legal / Singapore** | $1,000 | Entity registration & compliance for TZ APAC ecosystem |
+| **Total** | **$10,000** | 
 
 ---
 
